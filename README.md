@@ -1,5 +1,6 @@
 # Hotel-booking-analysis
 Summary
+
 Hotel Business is dependent on the customer traffic they get daily or on occasions. The apex point of this case study is to analyse the data of 2 types of hotels and give complete insights into their past, and current business. Also to provide some envisages that aid their business to grow in the upward direction.
 We are a team of three – Luv Mutreja, Jivan Jadhao, and Hitesh Kumar Khurana. We present here our exploratory data analysis, visualizations, interactive plots, animations, and lots of other interesting insights into the Hotel Booking data. We began by examining the raw data and performing the necessary cleaning of the dataset. then determined which features provide the most insight into price prediction and remove those that only serve to add noise. Data visualization and exploratory data analysis were performed on the tidied dataset to inform our modeling. 
 We have tried to get an outlook of the following problem statement using data analytic techniques.
